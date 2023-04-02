@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings, I am Jay. I am a Full stack developer. Currently, I am living in Tokyo, Japan serving Buzzreach Inc. as a Full stack developer building a beautiful web application.<br><br>Feel free to contact me for collaboration and discuss ideas <3
+Greetings, I am Jay. I am a Full stack developer. Currently, I am living in Tokyo, Japan serving Buzzreach Inc. as a Full stack developer building a beautiful web application.<br><br>Experienced full-stack developer proficient in PHP, Vue.js, and Nuxt.js. Skilled in developing responsive and dynamic web applications with a focus on user experience. Strong background in server-side scripting, RESTful APIs, and database integration. Passionate about creating clean, efficient, and scalable code that delivers value to users.<br><br>Feel free to contact me for collaboration and discuss ideas <3
 
 
 ## 🌐 Socials:
